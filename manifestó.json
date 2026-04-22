@@ -1,0 +1,16 @@
+{
+  "name": "ETH SPOT",
+  "short_name": "ETH",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07110f",
+  "theme_color": "#07110f",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
